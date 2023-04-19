@@ -11,9 +11,12 @@
 B changes
 
 # pull my changes
+<<<<<<< HEAD
+#
+# A changes
+=======
 
 C changes
 
 pull my changes as well
-
-A changes
+>>>>>>> 0623781d6d5d5bfd06dfa8788d9d8fc33399f50f
